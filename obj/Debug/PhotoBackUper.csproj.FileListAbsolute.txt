@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\PhotoBackUper.csprojAssemblyReference.cache
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\V\MainWindow.g.cs
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\PhotoBackUper_MarkupCompile.cache
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\PhotoBackUper_MarkupCompile.lref
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\bin\Debug\PhotoBackUper.exe.config
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\bin\Debug\PhotoBackUper.exe
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\bin\Debug\PhotoBackUper.pdb
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\V\MainWindow.baml
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\PhotoBackUper.g.resources
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\PhotoBackUper.Properties.Resources.resources
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\PhotoBackUper.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\PhotoBackUper.exe
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\PhotoBackUper.pdb
+C:\Users\Администратор\source\repos\PhotoBackUper\PhotoBackUper\obj\Debug\GeneratedInternalTypeHelper.g.cs
